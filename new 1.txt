@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+
+<head>
+<title>Pagina profil Bancea Bogdan</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+
+<body>
+<h1> Bancea Bogdan</h1>
+<img class="w3-round w3- border w3-padding w3-opacity w3-hover-sepia" src="bogdan.jpg" width=150 heught=200>
+<div class="w3-pannel w3-leftbar w3-sand w3-large w3-serif">
+<p>alexbogdan001@yahoo.com</p>
+<p>0760xxxxxx</p>
+</div>
+<p> “Fail early, fail often, fail forward” </p>
+
+<h2>Materii</h2>
+<table class="w3-table">
+<tr><td>UTC-N</td><td>2020-2024</td><td>Student</td></tr>
+<tr><td>CT API Zalau</td><td>2016-2020</td><td>bacalaureat</td></tr>
+</table>
+
+<h2>Hobby-uri</h2>
+<ul class="w3-ul">
+<li>sport</li>
+<li>muzica</li>
+<li>curse de masini - F1</li>
+</ul>
+<br>
+<a href="test2.html">Inapoi la catalorgul colegilor </a>
+<br>
+
+</body>
+</html>

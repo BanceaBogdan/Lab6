@@ -1,0 +1,27 @@
+<!doctype hmtl>
+<html>
+<title> Pagina profil Banceea Bogdan</title>
+<style>
+body {background-color: yellow;}
+h1 {color: red;}
+h2 {color: rgb(123, 23, 34);}
+p {color: #3cb371;}
+
+
+</style>
+</head>
+<head>
+<title>Agenda colegi</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Informatica Aplicata
+<br>
+Anul universitar 2020-2021, grupa 4</h1>
+<h2>Catalogul colegilor:</h2>
+<p><a href="Dragos.htm">Dargos Bratfalean</a><p>
+<p><a href="Enoh.html">Comsa Enoh</a><p>
+<p><a href="Melinda.html">Incze Melinda</a><p>
+</body>
+</html>
